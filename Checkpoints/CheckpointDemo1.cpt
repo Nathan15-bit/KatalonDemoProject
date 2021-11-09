@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointDemo1</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/LoginDataExcel</source-url>
+   </source-info>
+   <taken-date>2021-11-09T11:17:22.103</taken-date>
+   <column-names>
+      <column-name>urlData</column-name>
+      <column-name>userData</column-name>
+      <column-name>passData</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "https://opensource-demo.orangehrmlive.com/",
+      "checked": true
+    },
+    {
+      "value": "Admin",
+      "checked": true
+    },
+    {
+      "value": "hUKwJTbofgPU9eVlw/CnDQ\u003d\u003d",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "https://opensource-demo.orangehrmlive.com/",
+      "checked": true
+    },
+    {
+      "value": "testAdmin",
+      "checked": true
+    },
+    {
+      "value": "hUKwJTbofgPU9eVlw/CnDQ\u003d\u003d",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

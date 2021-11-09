@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTesting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19521947-70a0-4f87-a0b3-bdfb04ad3696</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46b9279c-d7c8-43bd-9b9c-80d0ae03033b</id>
+      <masked>false</masked>
+      <name>urlData</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1859e6fb-d086-4919-9b25-0d5a6c340fe6</id>
+      <masked>false</masked>
+      <name>userData</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bcfd93a9-cb85-4717-b42a-7c22c4b0d3ee</id>
+      <masked>false</masked>
+      <name>passData</name>
+   </variable>
+</TestCaseEntity>
