@@ -47,4 +47,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Demo/EnvQA</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>6676a056-6c69-432f-af15-c14884b1c630</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demo/BDDDemo</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
