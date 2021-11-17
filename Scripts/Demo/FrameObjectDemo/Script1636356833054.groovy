@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.selenium.dev/selenium/docs/api/java/index.html?overview-summary.html')
 
-WebUI.click(findTestObject('Object Repository/Page_Overview/a_org.openqa.selenium'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_Overview/span_OutputType'))
+WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('Object Repository/Page_OutputType/span_Fields'))
 

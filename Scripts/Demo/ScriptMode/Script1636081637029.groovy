@@ -19,9 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.delay(7)
-
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
+
+WebUI.maximizeWindow()
+
+WebUI.delay(3)
 
 WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_LOGIN Panel_txtUsername'), userName)
 

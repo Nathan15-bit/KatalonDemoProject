@@ -20,7 +20,7 @@
    <testCaseLink>
       <guid>5e280625-3ee1-433c-b38f-19d1fec046da</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Demo/RecordMode</testCaseId>
    </testCaseLink>
    <testCaseLink>
@@ -44,13 +44,13 @@
    <testCaseLink>
       <guid>f003546e-618d-4414-8a4c-215570a3a961</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Demo/EnvQA</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>6676a056-6c69-432f-af15-c14884b1c630</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Demo/BDDDemo</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

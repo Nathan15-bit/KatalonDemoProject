@@ -20,6 +20,7 @@ public class LoginSteps {
 		WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 	}
 
+	
 	@When("User input (.*) & (.*)")
 	public void user_input_username_Password(String username, String password) {
 
@@ -28,6 +29,7 @@ public class LoginSteps {
 		WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Username_txtPassword'), password)
 	}
 
+	
 	@And("Clicks on button login")
 	public void clicks_on_button_login() {
 
@@ -35,6 +37,7 @@ public class LoginSteps {
 		WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/input_Password_Submit'))
 	}
 
+	
 	@Then("User redirected to homepage")
 	public void user_redirected_to_homepage() {
 
